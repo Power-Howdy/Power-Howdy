@@ -110,7 +110,11 @@
 
 <h3 align="left">📫 How to reach me</h3>
 
+-----------
+
 >  Emails: **giftedclan0305@gmail.com**, **edmondvitel@gmail.com**
+
+-----------
 
 <div style="display: flex; justify-content: space-between;">
 
