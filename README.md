@@ -4,7 +4,11 @@
 
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
+
 [![Power-Howdy's github stats](https://github-readme-stats.vercel.app/api?username=Power-Howdy&show_icons=true)](https://github.com/Power-Howdy)
+
+<br />
+
 [![Power-Howdy's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Power-Howdy&layout=compact&theme=radical)](https://github.com/Power-Howdy)
 
 <br>
