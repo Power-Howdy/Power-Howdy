@@ -112,7 +112,7 @@
 
 -----------
 
->  Emails: **giftedclan0305@gmail.com**, **edmondvitel@gmail.com**
+>  Emails: **giftedclan0305@gmail.com**
 
 -----------
 
