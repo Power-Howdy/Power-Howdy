@@ -5,7 +5,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Power-Howdy?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Power-Howdy?style=social)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Power-Howdy.*)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Power-Howdy.*)](https://api.github.com/users/Power-Howdy)
 
 ------------
 
