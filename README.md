@@ -111,17 +111,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40"/>
 </div>
 
-<h3 align="left">📫 How to reach me</h3>
 
------------
-
->  Emails: **giftedclan0305@gmail.com**
-
------------
-
-<div style="display: flex; justify-content: space-between;">
-
-[![Power-Howdy's github stats](https://github-readme-stats.vercel.app/api?username=Power-Howdy&show_icons=true)](https://github.com/Power-Howdy)
-
-[![Power-Howdy's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Power-Howdy&layout=compact&theme=radical)](https://github.com/Power-Howdy)
-</div>
