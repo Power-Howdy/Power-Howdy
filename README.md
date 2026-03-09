@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I’m @Power-Howdy👋</h1>
-<a href="https://app.daily.dev/maddevilcoder"><img src="https://api.daily.dev/devcards/v2/wurqoSYiOitT0v901E3K6.png?r=exy&type=wide" width="652" alt="Mad Devil Coder's Dev Card"/></a>
-
+<a href="https://app.daily.dev/maddevilcoder"><img src="https://api.daily.dev/devcards/v2/wurqoSYiOitT0v901E3K6.png?type=wide&r=5iz" width="652" alt="Severus's Dev Card"/></a>
 
 
 
