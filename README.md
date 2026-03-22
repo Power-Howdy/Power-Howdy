@@ -23,7 +23,7 @@ Full-stack developer—web, mobile, and backend. I ship production systems with 
 
 | Category | Technologies |
 |----------|--------------|
-| Frontend | React, Vue, Angular, Next.js, Nuxt.js, Redux, Tailwind, Sass, MUI |
+| Frontend | React, Angular, Next.js, Vue, Nuxt.js, Redux, Tailwind, Sass, MUI |
 | Backend | Node.js, Express, NestJS, PHP, Laravel, Symfony, Python, Django |
 | Mobile | React Native, Flutter (Dart), Android (Java/Kotlin) |
 | Data | PostgreSQL, MySQL, MongoDB, SQLite |
