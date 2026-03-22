@@ -8,15 +8,15 @@
 
 ## Summary
 
-Full-stack developer—web, mobile, and backend. I ship production systems with modern JS/TS, PHP, and Python. Strong in React, Node, Laravel, and building scalable APIs.
+**Senior Software Engineer** — Full-stack (web, mobile, backend) with a focus on architecture, scalability, and delivery. I lead technical decisions, mentor engineers, and own systems from design to production. Modern JS/TS, PHP, and Python; proven track record building robust APIs and maintainable codebases.
 
 ---
 
 ## Tech Stack
 
-**Primary:** TypeScript · React · Node.js · Next.js · Laravel · Python · PostgreSQL · MongoDB
+**Primary:** TypeScript · React · React Native · Angular · Node.js · Next.js · Express · NestJS · Python · PostgreSQL · MongoDB
 
-**Also:** Vue, Angular, NestJS, Django, Express, Electron, Tailwind, Docker, Linux
+**Also:** Vue, Django, Laravel, Electron, Tailwind, Docker, Linux
 
 <details>
 <summary>Full stack (expand)</summary>
