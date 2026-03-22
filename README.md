@@ -25,9 +25,4 @@
 
 </details>
 
----
 
-## Contact
-
-- GitHub: [@Power-Howdy](https://github.com/Power-Howdy)
-- Portfolio: [Severus](https://severus-nu.vercel.app)
