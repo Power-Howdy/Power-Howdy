@@ -1,11 +1,4 @@
 # Power-Howdy
-
-<div align="center">
-  <img src="https://api.daily.dev/devcards/v2/wurqoSYiOitT0v901E3K6.png?type=wide&r=5iz" width="652" alt="Dev Card"/>
-</div>
-
----
-
 ## Summary
 
 **Senior Software Engineer** — Full-stack (web, mobile, backend) with a focus on architecture, scalability, and delivery. I lead technical decisions, mentor engineers, and own systems from design to production. Modern JS/TS, PHP, and Python; proven track record building robust APIs and maintainable codebases.
